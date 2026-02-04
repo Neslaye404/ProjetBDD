@@ -1,2 +1,4 @@
 # ProjetBDD
 Le Projet BDD  consiste à faire un site internet permettant l'identification, l'authentification et l'enregistrement de données grâce à une base de données (ici PhpMyAdmin) liée au site. L'identification ce fait grâce à une interface de connexion sur laquelle nous entrons : le nom d'utilisateur et le mot de passe. L'authentificatin ce fait grâce à la base de données qui, combinée au code php de notre site, vérifie les informations entrées à l'identification plus tôt. L'enregistrement ce fait quand à lui grâce à une boite d'inscription (dans laquelle nous entrons le nom d'utilisateur et le mot de passe afin de créer un nouveau compte) ainsi qu'à une zone de saisie sur laquelle nous pouvons écrire et envoyer une citation vers la base de données.
+
+##citatime.ct.ws
